@@ -1,5 +1,5 @@
 # Deep_learning_project
-Authors - Manish Mishra, Prerna Singh, Mohammed Danish, Anjani Josyula
+Authors - Manish Mishra, Prerna Singh, Mohammed Danish, Anjani Josyula, Suryaprakash Mishra
 This repository consists of details of course project for CMU-11785. The authors worked on 'Neural Style Transfer' during the course of Spring 2021. This repository consists of details about the experiments and results performed by the authors.
 
 Aim of the project: Given a content image and style image, the network produces an image which looks like content image "painted" like the style image.
